@@ -1,0 +1,104 @@
+2024-08-03 14:15:20 - Failed to create directory.
+2024-08-03 14:15:20 - Failed to set permissions.
+2024-08-03 14:15:55 - Directory created successfully.
+2024-08-03 14:15:55 - Permissions set successfully.
+2024-08-03 14:16:16 - Directory already exists.
+2024-08-03 14:16:16 - Permissions set successfully.
+2024-08-03 14:23:50 - Message: Database connection success: 
+2024-08-03 15:03:24 - New user name(test) registered successfully
+2024-08-03 15:04:29 - Table users created successfully or already exists.
+2024-08-03 15:06:58 - Table users created successfully or already exists.
+2024-08-03 15:07:08 - Table users created successfully or already exists.
+2024-08-03 15:07:48 - Table users created successfully or already exists.
+2024-08-03 15:09:24 - Table users created successfully or already exists.
+2024-08-03 15:09:50 - Table users created successfully or already exists.
+2024-08-03 15:09:52 - Table users created successfully or already exists.
+2024-08-03 15:27:09 - New user name(root) registered successfully
+2024-08-03 15:27:35 - user name(root) logged in successfully
+2024-08-03 15:52:14 - Table users created successfully or already exists.
+2024-08-03 15:52:29 - Table users created successfully or already exists.
+2024-08-03 15:52:29 - New user name(test2) registered successfully
+2024-08-03 15:53:14 - Table users created successfully or already exists.
+2024-08-03 15:53:22 - Table users created successfully or already exists.
+2024-08-03 15:53:22 - New user name(test3) registered successfully
+2024-08-03 15:54:52 - New user name(test4) registered successfully
+2024-08-03 16:01:24 - New user name(test) registered successfully
+2024-08-03 16:06:29 - Error in logging in: Invalid email or password
+2024-08-03 16:06:54 - Error in logging in: Invalid password
+2024-08-03 16:06:57 - Error in logging in: Invalid password
+2024-08-03 16:07:01 - Error in logging in: Invalid email or password
+2024-08-03 16:15:07 - New user name(test2) registered successfully
+2024-08-03 16:21:21 - This email is already registered, try new email! 
+2024-08-03 16:21:34 - This email is already registered, try new email! 
+2024-08-03 16:23:18 - This email is already registered, try new email! 
+2024-08-03 16:23:49 - This email is already registered, try new email! 
+2024-08-03 16:23:51 - This email is already registered, try new email! 
+2024-08-03 16:41:54 - This email is already registered, try new email! 
+2024-08-03 16:42:16 - New user name(test) registered successfully
+2024-08-03 16:42:26 - This email is already registered, try new email! 
+2024-08-03 16:42:30 - New user name(test2) registered successfully
+2024-08-03 16:43:14 - This email is already registered, try new email! 
+2024-08-03 16:45:00 - This email is already registered, try new email! 
+2024-08-03 16:49:33 - This email is already registered, try new email! 
+2024-08-03 16:49:47 - New user name(test3aw) registered successfully
+2024-08-03 16:50:38 - This email is already registered, try new email! 
+2024-08-03 16:50:45 - New user name(test4) registered successfully
+2024-08-03 18:22:46 - Profile updated successfully
+2024-08-03 18:23:28 - Profile updated successfully
+2024-08-03 18:24:15 - Profile updated successfully
+2024-08-03 18:25:45 - Profile updated successfully
+2024-08-03 19:36:10 - User data updated successfully
+2024-08-03 19:54:55 - User deleted successfully
+2024-08-03 19:55:12 - User deleted successfully
+2024-08-03 19:57:54 - User deleted successfully
+2024-08-03 20:10:15 - User deleted successfully
+2024-08-03 20:31:20 - This email is not registered, try new email! 
+2024-08-03 20:31:44 - This email is not registered, try new email! 
+2024-08-03 20:32:38 - OTP sent to email: admin@gmail.com 
+2024-08-03 20:33:27 - This email is not registered! 
+2024-08-03 20:36:51 - OTP sent to email: admin@gmail.com 
+2024-08-03 20:37:39 - OTP sent to email: admin@gmail.com 
+2024-08-03 20:43:37 - OTP sent to email: admin@gmail.com 
+2024-08-03 20:57:04 - This email is not registered! 
+2024-08-03 20:57:43 - Password & Confirm password does not match!
+2024-08-03 21:00:04 - This email is not registered! 
+2024-08-03 21:00:53 - OTP does not match!
+2024-08-03 21:00:57 - OTP does not match!
+2024-08-03 21:00:59 - OTP does not match!
+2024-08-03 21:01:51 - OTP does not match!
+2024-08-03 21:01:58 - This email is not registered! 
+2024-08-03 21:02:38 - User password changed successfully
+2024-08-03 21:02:56 - OTP sent to email: admin@gmail.com 
+2024-08-03 21:03:09 - User password changed successfully
+2024-08-03 21:03:15 - Error in logging in: Invalid email or password
+2024-08-03 21:05:59 - Error in logging in: Invalid email or password
+2024-08-03 21:06:29 - Error in logging in: Invalid email or password
+2024-08-03 21:07:21 - Error in logging in: Invalid email or password
+2024-08-03 21:09:24 - Error in logging in: Invalid email or password
+2024-08-03 21:09:26 - Error in logging in: Invalid email or password
+2024-08-03 21:10:52 - Error in logging in: Invalid email or password
+2024-08-03 21:10:54 - Error in logging in: Invalid email or password
+2024-08-03 21:10:56 - Error in logging in: Invalid email or password
+2024-08-03 21:11:12 - Error in logging in: Invalid email or password
+2024-08-03 21:11:14 - Error in logging in: Invalid email or password
+2024-08-03 21:11:45 - Error in logging in: Invalid email or password
+2024-08-03 21:11:48 - This email is already registered, try new email! 
+2024-08-03 21:13:34 - Error in logging in: Invalid email or password
+2024-08-03 21:14:52 - Error in logging in: Invalid email format
+2024-08-03 21:18:31 - Error in logging in: Invalid email format
+2024-08-03 21:18:32 - Error in logging in: Invalid email format
+2024-08-03 21:19:20 - Error in logging in: Invalid email format
+2024-08-03 21:20:03 - Error in logging in: Invalid email format
+2024-08-03 21:20:25 - Error in logging in: Invalid email format
+2024-08-03 21:20:44 - Error in logging in: Invalid email format
+2024-08-03 21:21:10 - Error in logging in: Invalid email or password
+2024-08-03 21:21:57 - Error in logging in: Invalid email or password
+2024-08-03 21:28:08 - This email is already addusered, try new email! 
+2024-08-03 21:28:17 - New user name(testt) addusered successfully
+2024-08-03 21:29:25 - New user name(asdad) addusered successfully
+2024-08-03 22:03:57 - Error in logging in: Invalid email or password
+2024-08-03 22:08:41 - Error in logging in: Invalid email or password
+2024-08-03 22:11:06 - Error in logging in: Invalid email or password
+2024-08-03 22:12:36 - Error in logging in: Invalid email or password
+2024-08-03 22:13:01 - OTP sent to email: admin@gmail.com 
+2024-08-03 22:13:17 - User password changed successfully
