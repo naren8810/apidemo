@@ -4,13 +4,18 @@
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav font-weight-bold">
             <li class="nav-item">
                 <a class="nav-link <?php echo $active_nav_home; ?>" aria-current="page" href="<?php echo getBaseURL() ?>/dashboard.php">Home</a>
             </li>
             <?php if (isset($_SESSION['super_admin']) && !empty($_SESSION['super_admin'])) { ?>
                 <li class="nav-item">
                     <a class="nav-link <?php echo $active_nav_users; ?>" href="<?php echo getBaseURL() ?>/users/users.php">Users</a>
+                </li>
+            <?php } ?>
+            <?php if (isset($_SESSION['super_admin']) && !empty($_SESSION['super_admin'])) { ?>
+                <li class="nav-item">
+                    <a class="nav-link <?php echo $active_nav_products; ?>" href="<?php echo getBaseURL() ?>/products.php">Products</a>
                 </li>
             <?php } ?>
             <li class="nav-item">

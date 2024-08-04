@@ -12,6 +12,7 @@ $active_nav_profile = '';
 $active_nav_login = '';
 $active_nav_register = '';
 $active_nav_forget = '';
+$active_nav_products = '';
 if (isset($segments[2]) && !empty($segments[2])) {
     if ($segments[2] == 'users.php' || $segments[2] == 'edituser.php') {
         $active_nav_users = 'active';
@@ -28,6 +29,9 @@ if (isset($segments[2]) && !empty($segments[2])) {
     } else if ($segments[2] == 'forget.php') {
         $active_nav_forget = 'active';
         $page_title = 'Forget Password';
+    } else if ($segments[2] == 'products.php') {
+        $active_nav_products = 'active';
+        $page_title = 'Products Api';
     } else {
         $active_nav_home = 'active';
         $page_title = 'Dashboard';
@@ -48,6 +52,9 @@ if (isset($segments[2]) && !empty($segments[2])) {
     } else if ($segments[1] == 'forget.php') {
         $active_nav_forget = 'active';
         $page_title = 'Forget Password';
+    } else if ($segments[1] == 'products.php') {
+        $active_nav_products = 'active';
+        $page_title = 'Products Api';
     } else {
         $active_nav_home = 'active';
         $page_title = 'Dashboard';
